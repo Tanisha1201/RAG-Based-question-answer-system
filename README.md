@@ -4,8 +4,7 @@ This project implements a Retrieval-Augmented Generation (RAG) based Question An
 It allows users to upload multiple text and PDF documents and ask questions whose answers are generated strictly from the uploaded documents.
 
 ---
-
-## 🚀 Features
+Features
 - Supports both TXT and PDF files  
 - Handles multiple documents at the same time  
 - Uses Sentence Transformers for embeddings  
@@ -16,7 +15,7 @@ It allows users to upload multiple text and PDF documents and ask questions whos
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 - Python  
 - Sentence-Transformers  
 - FAISS  
